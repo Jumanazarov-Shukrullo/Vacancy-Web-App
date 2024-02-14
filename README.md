@@ -14,13 +14,12 @@ The Algorithm Visualizer is a web-based application that allows users to visuali
 
 - **Frontend**: HTML, CSS, JavaScript, React.js/Vue.js
 - **Backend**: Python, Flask
-- **Database**: SQLite/PostgreSQL (optional)
-- **Deployment**: Docker, Kubernetes (optional)
+- **Database**: SQLite/PostgreSQL
+- **Deployment**: Docker, Kubernetes
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/algorithm-visualizer.git
-   cd algorithm-visualizer
+   git@github.com:Jumanazarov-Shukrullo/Algorithm-Visualizer.git

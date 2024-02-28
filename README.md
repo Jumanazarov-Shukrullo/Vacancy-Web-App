@@ -21,4 +21,4 @@ This is a full-stack web application built with Flask framework, designed to man
 1. Clone the repository:
 
    ```bash
-   git@github.com:Jumanazarov-Shukrullo/Algorithm-Visualizer.git
+   git@github.com:Jumanazarov-Shukrullo/Vacancy-Web-App.git

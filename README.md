@@ -1,14 +1,13 @@
-# Algorithm Visualizer
+# Vacancy Web App
 
-The Algorithm Visualizer is a web-based application that allows users to visualize various algorithms step by step. It provides interactive visual representations of algorithms, aiding users in understanding their behavior and performance.
+This is a full-stack web application built with Flask framework, designed to manage and display job vacancies.
 
 ## Features
 
-- **Algorithm Visualization**: Visualize various algorithms (e.g., sorting, graph traversal) with interactive animations.
-- **Data Management**: Upload custom data sets or choose from predefined examples for visualization.
-- **User Authentication**: Secure user accounts with authentication and manage user profiles.
-- **Algorithm Execution**: Execute algorithms and step through each iteration to see the algorithm in action.
-- **Responsive Design**: Ensure compatibility with different screen sizes for a seamless user experience.
+- **User Authentication**: Users can sign up, log in, and log out securely.
+- **CRUD Operations**: Authorized users can create, read, update, and delete job vacancies.
+- **Search Functionality**: Users can search for vacancies based on various criteria.
+- **Responsive Design**: The application is optimized for various screen sizes and devices.
 
 ## Technologies Used
 
